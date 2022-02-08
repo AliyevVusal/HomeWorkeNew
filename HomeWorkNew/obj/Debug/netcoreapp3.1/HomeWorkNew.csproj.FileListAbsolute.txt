@@ -1,0 +1,14 @@
+C:\Users\vusal\source\repos\HomeWorkNew\HomeWorkNew\bin\Debug\netcoreapp3.1\HomeWorkNew.exe
+C:\Users\vusal\source\repos\HomeWorkNew\HomeWorkNew\bin\Debug\netcoreapp3.1\HomeWorkNew.deps.json
+C:\Users\vusal\source\repos\HomeWorkNew\HomeWorkNew\bin\Debug\netcoreapp3.1\HomeWorkNew.runtimeconfig.json
+C:\Users\vusal\source\repos\HomeWorkNew\HomeWorkNew\bin\Debug\netcoreapp3.1\HomeWorkNew.runtimeconfig.dev.json
+C:\Users\vusal\source\repos\HomeWorkNew\HomeWorkNew\bin\Debug\netcoreapp3.1\HomeWorkNew.dll
+C:\Users\vusal\source\repos\HomeWorkNew\HomeWorkNew\bin\Debug\netcoreapp3.1\HomeWorkNew.pdb
+C:\Users\vusal\source\repos\HomeWorkNew\HomeWorkNew\obj\Debug\netcoreapp3.1\HomeWorkNew.csproj.AssemblyReference.cache
+C:\Users\vusal\source\repos\HomeWorkNew\HomeWorkNew\obj\Debug\netcoreapp3.1\HomeWorkNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vusal\source\repos\HomeWorkNew\HomeWorkNew\obj\Debug\netcoreapp3.1\HomeWorkNew.AssemblyInfoInputs.cache
+C:\Users\vusal\source\repos\HomeWorkNew\HomeWorkNew\obj\Debug\netcoreapp3.1\HomeWorkNew.AssemblyInfo.cs
+C:\Users\vusal\source\repos\HomeWorkNew\HomeWorkNew\obj\Debug\netcoreapp3.1\HomeWorkNew.csproj.CoreCompileInputs.cache
+C:\Users\vusal\source\repos\HomeWorkNew\HomeWorkNew\obj\Debug\netcoreapp3.1\HomeWorkNew.dll
+C:\Users\vusal\source\repos\HomeWorkNew\HomeWorkNew\obj\Debug\netcoreapp3.1\HomeWorkNew.pdb
+C:\Users\vusal\source\repos\HomeWorkNew\HomeWorkNew\obj\Debug\netcoreapp3.1\HomeWorkNew.genruntimeconfig.cache
